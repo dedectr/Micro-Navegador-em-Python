@@ -1,0 +1,2 @@
+fastapi uvicorn httpx beautifulsoup4
+rodar -> uvicorn main:app --reload
